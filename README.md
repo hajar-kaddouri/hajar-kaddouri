@@ -14,4 +14,4 @@ Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regre
 Concepts: ETL, Web scraping, Proxy Integration, API integration, Data wrangling, EDA, Statistical modelling, Model evaluation
 
 🔗 LinkedIn: https://www.linkedin.com/in/hajar-kaddouri/
-📧 Email: hajar.kad97@gmail.com
+📧 Email: kad.hajar97@gmail.com
