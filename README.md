@@ -1,17 +1,18 @@
 ## Hi, I'm Hajar 👋
-I'm a Data Scientist and third-year computer science student, looking to explore more opportunities in Data Engineering! I'm currently working as a Data Engineer in op.ai. I'm responsible for building scalable pipelines for database ingestion while ensuring data integrity and accuracy.
 
-I'm currently learning C++ and Prolog!
+I'm a Data Scientist and third-year Computer Science student, excited to explore more in Data Engineering! Currently, I’m working as a Data Engineer at op.ai, where I build scalable data pipelines for database ingestion, ensuring data integrity and accuracy along the way. 🚀
 
-Programming Languages: Python, SQL
+📚 Currently Learning: C++ and Prolog
 
-Technologies: AWS, Azure, PostgreSQL.
+🖥️ Programming Languages: Python 🐍, SQL 🗄️
 
-Frameworks: Pandas, Selenium, Numpy, Scikit-learn, PyTorch, Tensorflow, Keras, Matplotlib, Seaborn
+☁️ Technologies: AWS ☁️, Azure ☁️, PostgreSQL 🐘
 
-Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regressions, KNN etc.)
+📦 Frameworks: Pandas 🐼, Selenium 🕷️, Numpy 🔢, Scikit-learn 🔍, PyTorch 🔥, TensorFlow 🤖, Keras 🧠, Matplotlib 📊, Seaborn 📈
 
-Concepts: ETL, Web scraping, Proxy Integration, API integration, Data wrangling, EDA, Statistical modelling, Model evaluation
+🤖 Models: Deep Learning (CNN, ANN, etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regression, KNN, etc.)
+
+🛠️ Concepts: ETL, Web Scraping 🌐, Proxy Integration, API Integration 🔗, Data Wrangling 🧹, EDA 📊, Statistical Modeling 📐, Model Evaluation 📈
 
 🔗 LinkedIn: https://www.linkedin.com/in/hajar-kaddouri/
 📧 Email: kad.hajar97@gmail.com
