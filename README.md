@@ -1,6 +1,6 @@
 ## Hi, I'm Hajar 👋
 
-I'm a Data Scientist and second-year Computer Science student, excited to explore more in Data Engineering! Currently,I work as data science freelancer where I build scalable data pipelines for database ingestion, ensuring data integrity and accuracy along the way. 🚀
+I'm a Data Scientist and third year Computer Science student, excited to explore more in Data Engineering! Currently,I work as data science freelancer where I build scalable data pipelines for database ingestion, ensuring data integrity and accuracy along the way. 🚀
 
 📚 Currently Learning: C++ and Prolog
 
